@@ -1,6 +1,6 @@
 # COVID-19 Pulse
 
-This template should help get you started developing with Vue 3 in Vite.
+Web-based Dashboard for Municipalities by UM Novelty Program
 
 ## Recommended IDE Setup
 
