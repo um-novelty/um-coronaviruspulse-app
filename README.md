@@ -12,10 +12,18 @@ This template should help get you started developing with Vue 3 in Vite.
 
 https://documenter.getpostman.com/view/10808728/SzS8rjbc#b07f97ba-24f4-4ebe-ad71-97fa35f3b683
 
-[MongoDB COVID-19 Open Data](https://github.com/mongodb-developer/open-data-covid-19)
+[MongoDB COVID-19 Open Data]
+
+``` sh
+(https://github.com/mongodb-developer/open-data-covid-19)
+```
 
 <br>
-COVID-19 [https://webhooks.mongodb-stitch.com/api/client/v2.0/app/covid-19-qppza/service/REST-API/incoming\_webhook/global?country=Philippines&hide\_fields=\_id, country, country\_code, country\_iso2, country\_iso3, loc, state, uid](https://webhooks.mongodb-stitch.com/api/client/v2.0/app/covid-19-qppza/service/REST-API/incoming_webhook/global?country=Philippines&hide_fields=_id,%20country,%20country_code,%20country_iso2,%20country_iso3,%20loc,%20state,%20uid)
+COVID-19 
+
+``` sh
+[https://webhooks.mongodb-stitch.com/api/client/v2.0/app/covid-19-qppza/service/REST-API/incoming\_webhook/global?country=Philippines&hide\_fields=\_id, country, country\_code, country\_iso2, country\_iso3, loc, state, uid](https://webhooks.mongodb-stitch.com/api/client/v2.0/app/covid-19-qppza/service/REST-API/incoming_webhook/global?country=Philippines&hide_fields=_id,%20country,%20country_code,%20country_iso2,%20country_iso3,%20loc,%20state,%20uid)
+```
 
 ## Project Setup
 
